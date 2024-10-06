@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string": "cpp"
+    },
+    "cmake.debugConfig": {
+        "cwd": "${workspaceFolder}"
+    }
+}
